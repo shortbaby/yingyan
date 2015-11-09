@@ -1,0 +1,67 @@
+{
+    "status": 0,
+    "size": 4,
+    "total": 4,
+    "pois": [{
+        "city": "来宾市",
+        "create_time": "2014-10-17 10:46:11",
+        "district": "兴宾区",
+        "loc_time": 1413526633,
+        "location": [
+            109.23276173322,
+            23.751021734754
+        ],
+        "modify_time": "2014-10-17 14:17:01",
+        "province": "广西壮族自治区",
+        "title": null,
+        "track_name": "唐G12001",
+        "city_id": 202,
+        "track_id": 517118819
+    }, {
+        "city": "常州市",
+        "create_time": "2014-10-17 09:28:03",
+        "district": "武进区",
+        "loc_time": 1413526632,
+        "location": [
+            119.83801525967,
+            31.81347898519
+        ],
+        "modify_time": "2014-10-17 14:16:59",
+        "province": "江苏省",
+        "title": null,
+        "track_name": "宋D66754",
+        "city_id": 348,
+        "track_id": 516977414
+    }, {
+        "city": "常州市",
+        "create_time": "2014-10-17 08:04:05",
+        "district": "金坛市",
+        "loc_time": 1413525940,
+        "location": [
+            119.60296060637,
+            31.744964416469
+        ],
+        "modify_time": "2014-10-17 14:05:33",
+        "province": "江苏省",
+        "title": null,
+        "track_name": "元D33567",
+        "city_id": 348,
+        "track_id": 516915570
+    }, {
+        "city": "金华市",
+        "create_time": "2014-10-17 08:59:12",
+        "district": "义乌市",
+        "loc_time": 1413526668,
+        "location": [
+            120.14057421723,
+            29.320655146984
+        ],
+        "modify_time": "2014-10-17 14:16:59",
+        "province": "浙江省",
+        "title": null,
+        "track_name": "明GC9D99",
+        "city_id": 333,
+        "track_id": 516922851
+    }],
+    "message": "成功"
+}
