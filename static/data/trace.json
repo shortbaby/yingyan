@@ -1,0 +1,41 @@
+{
+    "status": 0,
+    "actives": 0,
+    "service": {
+        "name": "车辆示例平台",
+        "create_time": "2014-10-13 17:39:35",
+        "modify_time": "2014-10-13 17:39:35",
+        "service_id": 81142,
+        "columns": [
+            {
+                "key": "loc_time",
+                "type": 1,
+                "name": "loc_time",
+                "is_sortfilter_field": 1,
+                "sortfilter_id": 1,
+                "is_search_field": 0,
+                "is_index_field": 1,
+                "is_unique_field": 0,
+                "create_time": "2014-10-13 17:39:34",
+                "modify_time": "2014-10-13 17:39:34",
+                "column_id": 80797,
+                "service_id": 81142
+            },
+            {
+                "key": "track_name",
+                "type": 3,
+                "name": "车牌号",
+                "max_length": 512,
+                "is_sortfilter_field": 0,
+                "is_search_field": 1,
+                "is_index_field": 1,
+                "is_unique_field": 1,
+                "create_time": "2014-10-13 17:39:34",
+                "modify_time": "2014-10-13 17:39:34",
+                "column_id": 80796,
+                "service_id": 81142
+            }
+        ]
+    },
+    "message": "成功"
+}
